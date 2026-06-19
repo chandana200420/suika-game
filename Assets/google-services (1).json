@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032294098021",
+    "project_id": "unitybackend-b6961",
+    "storage_bucket": "unitybackend-b6961.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032294098021:android:c6e6b2f5b095dec98c528c",
+        "android_client_info": {
+          "package_name": "com.Chandana.suikagameBTStheme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoFLQyKCbQIrA0ToZ_IB55pM57s968NWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
